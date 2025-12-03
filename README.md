@@ -1,6 +1,5 @@
-
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffa348,100:a51d2d&height=120&text=Jia%20Chung&animation=&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26a269,100:33d17a&height=120&text=Jia%20Chung&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐸 About Me </h2>  
@@ -18,10 +17,10 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="> </a>
-         <a href=> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link="> </a>
-         <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="> </a>
-         <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:"> </a>
+    <div align= "center"> <a href=mailto:25jiaco@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:25jiaco@gmail.com"> </a>
+         <a href=25jiaco@gmail.com> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=25jiaco@gmail.com"> </a>
+         <a href=25jiaco@gmail.com> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=25jiaco@gmail.com"> </a>
+         <a href=25jiaco@gmail.com> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=25jiaco@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
