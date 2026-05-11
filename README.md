@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26a269,100:33d17a&height=120&text=NEWBIE%20BUT%20GOLDIE&animation=&fontColor=FEFDF5&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26a269,100:33d17a&height=120&text=NEWBIE%20BUT%20GOLDIE&animation=&fontColor=f7e7ce&fontSize=50" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐸 About Me </h2>  
