@@ -1,9 +1,10 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26a269,100:33d17a&height=120&text=Jia%20Chung&animation=&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26a269,100:33d17a&height=120&text=EVOLVING EVERY COMMIT&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🐸 About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 개발하는 성장자 정지아 입니다.      
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요! 깃허브라는 거대한 바다에 이제 뛰어들었습니다.
+지금은 비록 서툰 발자국을 남기고 있지만, [더 이상 뉴비가 아닌 나]를 만나기 위해 매일 코드를 쌓아가고 있습니다.     
         ·̩͙꒰ঌ( っ️˘꒳˘)っ*.+ﾟ </div> 
     </div>
     <div align= "center">
